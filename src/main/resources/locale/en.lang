@@ -1,0 +1,14 @@
+[item]
+batmount=Bat Mount
+spidermount=Spider Mount
+
+[itemtooltip]
+batmounttip=Summons a bat that you can fly and grants night vision.
+spidermounttip=Summons a mountable spider and adds +10 summons to spider staff.
+
+[mob]
+batmount=bat
+spidermount=spider
+
+[ui]
+toggleNV=Toggle Night Vision
